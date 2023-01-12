@@ -1,6 +1,6 @@
 # argvhelper.py
 
-# A Python command line args helper class.
+# A Python command line args helper class. Entirely worse than argparse.py!
 
 import sys
 
